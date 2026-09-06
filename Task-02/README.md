@@ -56,5 +56,9 @@ In this project, multiple classification algorithms—including **Logistic Regre
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/mhammadmustafa/Credit-Risk-Data.git](https://github.com/mhammadmustafa/Credit-Risk-Data.git)
-   cd Credit-Risk-Data
+## 🚀 How to Run Locally
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git](https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git)
+ 
