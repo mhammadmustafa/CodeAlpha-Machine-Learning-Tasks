@@ -33,9 +33,6 @@ Credit risk modeling is crucial for financial institutions to assess the likelih
 
 ## 🚀 How to Run Locally
 
-1. **Clone the Repository:**
+1. **Clone and Open Task-01 Directory:**
    ```bash
-   git clone [https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git](https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git)
-   
-Navigate to Task-01 Directory:
- cd CodeAlpha-Machine-Learning-Tasks/Task-01
+   git clone [https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git](https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git) && cd CodeAlpha-Machine-Learning-Tasks/Task-01
