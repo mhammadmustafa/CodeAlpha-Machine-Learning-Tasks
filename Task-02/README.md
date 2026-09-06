@@ -56,9 +56,18 @@ In this project, multiple classification algorithms—including **Logistic Regre
 
 1. **Clone the Repository:**
    ```bash
-## 🚀 How to Run Locally
-
-1. **Clone the Repository:**
-   ```bash
    git clone [https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git](https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git)
- 
+   ```
+
+2. **Navigate to Task-02 Directory:**
+   ```bash
+   cd CodeAlpha-Machine-Learning-Tasks/Task-02
+   ```
+
+3. **Install Required Packages:**
+   ```bash
+   pip install pandas numpy scikit-learn xgboost matplotlib seaborn
+   ```
+
+4. **Run the Notebook:**
+   Launch Jupyter Notebook or VS Code to run `codealpha-task.ipynb`.
