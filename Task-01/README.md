@@ -37,7 +37,6 @@ Credit risk modeling is crucial for financial institutions to assess the likelih
    ```bash
    git clone [https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git](https://github.com/mhammadmustafa/CodeAlpha-Machine-Learning-Tasks.git)
    
-   Navigate to Task-01 Directory:
-
+Navigate to Task-01 Directory:
 Bash
 cd CodeAlpha-Machine-Learning-Tasks/Task-01
