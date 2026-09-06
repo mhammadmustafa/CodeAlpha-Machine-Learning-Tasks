@@ -1,37 +1,19 @@
-# 🏦 Credit Risk Assessment & Prediction Models
+# 🚀 Data Science & Machine Learning Internship Projects
 
-An end-to-end Machine Learning project designed to evaluate financial credit risk using decision trees, ensemble methods, and linear classification models.
-
-## 📌 Project Overview
-Credit risk modeling is crucial for financial institutions to assess the likelihood of a borrower defaulting on a loan. In this project, three distinct machine learning algorithms were trained and evaluated on a credit risk dataset to classify high-risk vs. low-risk applicants.
+This repository contains all my internship tasks completed during the program.
 
 ---
 
-## 🛠️ Models Trained & Evaluated
-1. **Logistic Regression (LR):** Used as a baseline linear model for binary risk classification and feature interpretability.
-2. **Decision Tree (DT):** Built to capture non-linear relationships and decision rules.
-3. **Random Forest (RF):** Implemented as an ensemble approach to reduce overfitting, improve accuracy, and measure feature importance.
+## 📁 Projects Index
+
+### 🏦 [Task 01: Credit Risk Assessment & Prediction](./Task-01)
+* **Description:** End-to-end Machine Learning pipeline using Random Forest, Decision Tree, and Logistic Regression to evaluate borrower default risk.
+* **Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib, Kaggle
+* 🔗 **[View Task 1 Code & Documentation](./Task-01)**
 
 ---
 
-## 🧰 Tech Stack & Tools
-* **Language:** Python
-* **Data Processing & Analysis:** Pandas, NumPy
-* **Machine Learning:** Scikit-Learn
-* **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Kaggle Notebooks / Jupyter Notebook
-
----
-
-## 📊 Key Workflow Steps
-1. **Data Preprocessing & Cleaning:** Handled missing values, categorical encoding, and feature scaling.
-2. **Exploratory Data Analysis (EDA):** Visualized distribution of credit scores, loan amounts, and risk classes.
-3. **Model Training & Hyperparameter Tuning:** Trained Logistic Regression, Decision Tree, and Random Forest classifiers.
-4. **Performance Evaluation:** Compared models using Metrics such as **Accuracy**, **Precision**, **Recall**, **F1-Score**, and **ROC-AUC**.
-
----
-
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-git clone https://github.com/mhammadmustafa/Credit-Risk-Data.git
+### 📊 [Task 02: Internship Task 2](./Task-02)
+* **Description:** Machine Learning model and exploratory data analysis for Task 2.
+* **Tech Stack:** Python, Pandas, Seaborn, Scikit-Learn
+* 🔗 **[View Task 2 Code & Documentation](./Task-02)**
